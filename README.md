@@ -1,7 +1,5 @@
 # business-intelligence-
-Certainly! Here's a template for a GitHub README file for Business Intelligence (BI):
 
----
 
 # Business Intelligence (BI)
 
